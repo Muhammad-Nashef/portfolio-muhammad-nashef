@@ -2,6 +2,12 @@ import { motion } from "framer-motion";
 
 const experience = [
   {
+  title: "Automotive Engineering & Diagnostics",
+  period: "2025 - Present",
+  description:
+    "Learning vehicle diagnostics, automotive electronics, CAN communication systems, sensors, engine systems, and technical troubleshooting alongside software engineering and AI development.",
+  },
+  {
     title: "AI Projects Developer",
     period: "2024 - Present",
     description:
